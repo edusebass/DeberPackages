@@ -96,7 +96,7 @@ public class Circunferencia {
         System.out.println(this.radio);
         System.out.println(this.a_semicircunferencia);
         System.out.println(this.diametro);
-        System.out.println(this.longitud);
-        System.out.println(this.area);
+        System.out.println(getLongitud());
+        System.out.println(getArea());
     }
 }
