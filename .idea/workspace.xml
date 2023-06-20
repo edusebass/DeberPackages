@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b064eee0-a1eb-49d4-8c53-966b9323e725" name="Changes" comment="completo">
+    <list default="true" id="b064eee0-a1eb-49d4-8c53-966b9323e725" name="Changes" comment="Completo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687189558204</updated>
-      <workItem from="1687214719239" duration="6579000" />
+      <workItem from="1687214719239" duration="7590000" />
     </task>
     <task id="LOCAL-00001" summary="Creacion repo">
       <created>1687189812618</created>
@@ -82,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687228066209</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Completo">
+      <created>1687228604358</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687228604358</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Completo">
+      <created>1687228649438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687228649438</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +105,7 @@
     <MESSAGE value="Creacion repo" />
     <MESSAGE value="MENU" />
     <MESSAGE value="completo" />
-    <option name="LAST_COMMIT_MESSAGE" value="completo" />
+    <MESSAGE value="Completo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completo" />
   </component>
 </project>
