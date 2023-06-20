@@ -65,10 +65,10 @@ public class ELIPSEE {
         this.foco = h;
     }
     //UNO
-    private float distanciaSemiejes() {
+    public float distanciaSemiejes() {
         return this.foco = (this.a - this.b) / (this.a + this.b);
     }
-    private double perimetroElipse () {
+    public double perimetroElipse () {
         return (float) (3.14 * ((1 + 3 * this.foco) / (Math.pow((10 + (4 - 3 * this.foco)), 0.5))));
     }
     public float area ( float a, float b ){//donde "a" y "b" son los semiejes mayor y menor
@@ -80,7 +80,7 @@ public class ELIPSEE {
     }
     public float getFoco(){
         fococ();
-        return foco;
+        return this.foco;
     }
     public void fococ(){
         foco = (a*a) - (b*b);
